@@ -31,7 +31,7 @@
 2. Установите плагин:
 
 ```bash
-composer require djentelman57/wn-forms-plugin
+composer require martin/wn-forms-plugin
 php artisan winter:up
 ```
 
