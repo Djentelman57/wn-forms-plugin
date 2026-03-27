@@ -1,6 +1,6 @@
 # Magic Forms (форк Infocity)
 
-Форк `martin/wn-forms-plugin` для Winter CMS, подготовленный для повторного использования в ваших проектах.
+Форк `martin/wn-forms-plugin` для Winter CMS, подготовленный для повторного использования.
 
 ## Что добавлено в этом форке
 
