@@ -1,0 +1,18 @@
+{
+    "name": "infocity/wn-forms-plugin",
+    "type": "winter-plugin",
+    "description": "Magic Forms fork for Winter CMS with reliable mail outbox queue",
+    "keywords": ["winter", "wintercms", "cms", "plugin", "forms", "mail queue", "outbox"],
+    "homepage": "https://github.com/infocity/wn-forms-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Infocity",
+            "role": "Maintainer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/infocity/wn-forms-plugin/issues",
+        "source": "https://github.com/infocity/wn-forms-plugin"
+    }
+}

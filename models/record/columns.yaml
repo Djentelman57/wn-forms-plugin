@@ -1,0 +1,38 @@
+columns:
+
+    id:
+        label     : martin.forms::lang.controllers.records.columns.id
+        searchable: true
+
+    group:
+        label     : martin.forms::lang.controllers.records.columns.group
+        searchable: true
+
+    ip:
+        label     : martin.forms::lang.controllers.records.columns.ip
+        searchable: true
+
+    form_data:
+        label     : martin.forms::lang.controllers.records.columns.form_data
+        type      : partial
+        path      : $/martin/forms/models/record/fields/_stored_fields.htm
+        searchable: true
+
+    files:
+        label     : martin.forms::lang.controllers.records.columns.files
+        type      : partial
+        path      : $/martin/forms/models/record/fields/_files_fields.htm
+        searchable: false
+        sortable  : false
+       #invisible : true
+
+    mail_delivery:
+        label     : martin.forms::lang.controllers.records.columns.mail_delivery
+        type      : partial
+        path      : $/martin/forms/models/record/fields/_mail_delivery_fields.htm
+        searchable: false
+        sortable  : false
+
+    created_at:
+        label: martin.forms::lang.controllers.records.columns.created_at
+        type: datetime
