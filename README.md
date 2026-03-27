@@ -51,7 +51,7 @@ php artisan winter:up
 Затем:
 
 ```bash
-composer require djentelman57/wn-forms-plugin:* --prefer-source
+composer require martin/wn-forms-plugin:* --prefer-source
 php artisan winter:up
 ```
 
