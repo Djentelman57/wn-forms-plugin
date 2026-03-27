@@ -21,9 +21,9 @@ class Plugin extends PluginBase
         return [
             'name'        => 'martin.forms::lang.plugin.name',
             'description' => 'martin.forms::lang.plugin.description',
-            'author'      => 'Infocity',
+            'author'      => 'Djentelman57',
             'icon'        => 'icon-bolt',
-            'homepage'    => 'https://github.com/infocity/wn-forms-plugin'
+            'homepage'    => 'https://github.com/Djentelman57/wn-forms-plugin'
         ];
     }
 

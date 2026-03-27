@@ -22,7 +22,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/infocity/wn-forms-plugin"
+      "url": "https://github.com/Djentelman57/wn-forms-plugin"
     }
   ]
 }
@@ -31,7 +31,7 @@
 2. Установите плагин:
 
 ```bash
-composer require infocity/wn-forms-plugin
+composer require djentelman57/wn-forms-plugin
 php artisan winter:up
 ```
 
@@ -51,7 +51,7 @@ php artisan winter:up
 Затем:
 
 ```bash
-composer require infocity/wn-forms-plugin:* --prefer-source
+composer require djentelman57/wn-forms-plugin:* --prefer-source
 php artisan winter:up
 ```
 
@@ -77,7 +77,7 @@ php artisan queue:work
 
 ## Важно перед первой публикацией
 
-- Пакет уже настроен как `infocity/wn-forms-plugin`.
+- Пакет уже настроен как `djentelman57/wn-forms-plugin`.
 - Если URL вашего репозитория отличается, обновите ссылки в:
   - `composer.json` (`homepage`, `support`);
   - `Plugin.php` (`pluginDetails.homepage`).
