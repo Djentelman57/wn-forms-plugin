@@ -1,5 +1,5 @@
 {
-    "name": "djentelman57/wn-forms-plugin",
+    "name": "infocity/wn-forms-plugin",
     "type": "winter-plugin",
     "description": "Magic Forms fork for Winter CMS with reliable mail outbox queue",
     "keywords": ["winter", "wintercms", "cms", "plugin", "forms", "mail queue", "outbox"],
